@@ -95,12 +95,21 @@ ul {
   align-items: center;
 }
 
+.slider-up .title {
+  font-family: 'Montserrat Extra Bold', sans-serif;
+}
+
 .subtitle {
   background: #101f1e;
   opacity: 0.8;
   border-bottom-left-radius: 36px;
   border-top-right-radius: 36px;
   padding: 10px;
+  font-family: 'Montserrat Medium', sans-serif;
+}
+
+.outs_more-buttn .buy-button {
+  font-family: 'Montserrat Extra Bold', sans-serif
 }
 
 .text-color-primary {
