@@ -83,6 +83,21 @@ ul {
   list-style-type: none;
 }
 
+.subtitle {
+  background: #101f1e;
+  opacity: 0.8;
+  border-bottom-left-radius: 36px;
+  border-top-right-radius: 36px;
+  padding: 10px;
+}
+
+/**
+ * Colors & Backgrounds
+ */
+.text-color-primary {
+  color: #e2ab57;
+}
+
 /*-- //Reset-Code --*/
 .title {
   font-size: 50px;
