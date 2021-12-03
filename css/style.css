@@ -83,6 +83,18 @@ ul {
   list-style-type: none;
 }
 
+/**
+ * Custom Styles
+ */
+.icons ul li a span.icon-social {
+  font-size: 34px;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .subtitle {
   background: #101f1e;
   opacity: 0.8;
@@ -91,9 +103,6 @@ ul {
   padding: 10px;
 }
 
-/**
- * Colors & Backgrounds
- */
 .text-color-primary {
   color: #e2ab57;
 }
