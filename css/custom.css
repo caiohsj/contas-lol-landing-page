@@ -1,0 +1,44 @@
+/**
+ * Custom Styles
+ */
+ .icons ul li a span.icon-social {
+    font-size: 34px;
+    width: 44px;
+    height: 44px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .slider-up .title {
+    font-family: 'Montserrat Extra Bold', sans-serif;
+    margin-top: 80px;
+  }
+  
+  .subtitle {
+    background: #101f1e;
+    opacity: 0.8;
+    border-bottom-left-radius: 36px;
+    border-top-right-radius: 36px;
+    padding: 10px;
+    font-family: 'Montserrat Medium', sans-serif;
+    text-transform: uppercase;
+  }
+  
+  .outs_more-buttn .buy-button {
+    font-family: 'Montserrat Extra Bold', sans-serif;
+    padding: 20px 100px;
+    border-radius: 50px;
+  }
+  
+  .text-color-primary {
+    color: #e2ab57;
+  }
+  
+  footer {
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
